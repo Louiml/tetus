@@ -1,0 +1,4 @@
+#include "codeio"
+int main(){
+    println("Hello World");
+}
